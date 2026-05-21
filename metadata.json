@@ -1,0 +1,6 @@
+{
+  "name": "Remix: 低空经济未来学习中心",
+  "description": "面向未来的低空经济（Low-Altitude Economy）综合交互式学习平台，包含产业看板、技术课程与AI导师。",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
